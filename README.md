@@ -1,3 +1,8 @@
+***
+# For personal study only
+***
+  
+
 # Apache Dubbo Project
 
 [![Build Status](https://travis-ci.org/apache/dubbo.svg?branch=master)](https://travis-ci.org/apache/dubbo)
